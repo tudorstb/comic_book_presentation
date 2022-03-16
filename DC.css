@@ -1,0 +1,27 @@
+#actioncomics {
+    margin-top: 10px;
+}
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+    float: left;
+    margin-left: 5px;
+
+  }
+  
+  .next {
+    background-color: #002266;
+    color: white; 
+    float: right;
+    margin-right: 5px;
+  }
+
+  .previous:hover {
+    transform: skew(-10deg);
+  }
+
+  .next:hover {
+    transform: skew(-10deg);
+  }
+

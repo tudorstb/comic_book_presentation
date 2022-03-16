@@ -1,0 +1,34 @@
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+    float: left;
+    margin-left: 5px;
+    text-decoration: none;
+    padding: 0 5px 0 px;
+  }
+  
+  .next {
+    background-color: black;
+    color: white; 
+    float: right;
+    margin-right: 5px;
+    text-decoration: none;
+    padding: 0 5px 0 px;
+  }
+
+  .previous:hover {
+    transform: skew(-10deg);
+  }
+
+  .next:hover {
+    transform: skew(-10deg);
+  }
+
+  .previous:hover {
+    transform: skew(-10deg);
+  }
+
+  .next:hover {
+    transform: skew(-10deg);
+  }

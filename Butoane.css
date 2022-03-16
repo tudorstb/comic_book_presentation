@@ -1,0 +1,13 @@
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+    float: left;
+    margin-top: 5%;
+  }
+  
+  .next {
+    background-color: #4CAF50;
+    color: white; 
+    float: right;
+    margin-top: 5%;
+  }

@@ -1,0 +1,44 @@
+#firstp {
+    padding-bottom: 5px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+    float: left;
+    margin-top: 1%;
+    padding: 0 5px 0 5px;
+  }
+
+  .previous:hover {
+    transform: skew(-10deg);
+  }
+  
+  .next {
+    background-color: black;
+    color: white; 
+    float: right;
+    margin-top: 1%;
+    padding: 0 5px 0 5px;
+  }
+
+  .next:hover {
+    transform: skew(-10deg);
+  }
+
+  #DClink:hover  {
+    background-color: blue;
+    color:black;
+    transform: skew(-10deg);
+  }
+
+  #Marvellink:hover {
+    background-color: red;
+    color: white;
+    transform: skew(-10deg);
+  }
